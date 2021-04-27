@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Androth - Declutter Compass" />
+        <Description value="This modlet removes waypoints from the compass allowing you to make map markers without cluttering the compass. Quest, home, quick waypoints, turrets, vehicles, still show up on the compass" />
+        <Author value="Androth" />
+        <Version value="1.0.0" />
+    </ModInfo>
+</xml>

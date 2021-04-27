@@ -1,0 +1,5 @@
+<configs>
+    <!-- Makes any map waypoint you set except for quick waypoint invisible on compass -->
+    <remove xpath="/nav_object_classes/nav_object_class[@name='waypoint']/inactive_compass_settings"></remove>
+	<remove xpath="/nav_object_classes/nav_object_class[@name='waypoint']/compass_settings"></remove>
+</configs>
